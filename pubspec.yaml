@@ -1,6 +1,6 @@
 
-name: learning_tests
-description: A new Flutter project.
+name: project_blueprint
+description: Flutter Project Blueprint.
 
 version: 1.0.0+1
 
@@ -12,9 +12,6 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  flutter_bloc: ^8.1.1
-  equatable: ^2.0.5
-  copy_with_extension: ^4.0.3
 
 dev_dependencies:
   flutter_test:
